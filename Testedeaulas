@@ -1,0 +1,52 @@
+#int= 7, -4, 0, 9875
+#float= 4.5, 0.076, -15.223, -7.0
+#bool= True, False #A palavra tem que estar capitalizada.
+#str= 'olá', 'como voce está?', '123456', '7.5',''#String vazia
+
+#Definir qual a classe que sera usada dentro do print, pois por padrão ele sempre usa STR(string)
+
+#n1 = int(input("Digite um numero:"))
+#n2 = int(input("Digite mais um numero:"))
+#s = n1+n2
+#print("A soma entre {0}+{1} é igual á {2}".format(n1, n2, s))
+
+#print(type(n1)) mostra graficamente qual o tipo que foi usado
+#print("A soma vale{}".format(s)) serve pra represetar melhor valores dentro de uma linha str atraves da chave e format. 
+#Exemplo: print("A soma entre {0}+{1} vale {2}".format(n1, n2, s))
+
+
+#Aula 6
+#teste = input('Digite aqui algo pertinente, gafanhoto...: ')
+#print ('Voce escreveu o tipo: ',type(teste))
+#print ('Aqui tem letras?',teste.isalpha())
+#print ('Aqui tem numeros?',teste.isnumeric())
+#print ('Aqui tem alfanumerico?',teste.isalnum())
+#print ('Aqui tem espaços?',teste.isspace())
+#print ('Aqui tem letras em caixa alta?',teste.isupper())
+#print ('Aqui tem letras em caixa baixa',teste.islower())
+#print ('Aqui tem valores ASCII?',teste.isascii())
+#print ('Aqui tem valores ASCII?',teste.istitle())
+
+#Aula7
+"""""
+#+ = Adição  
+#- = Substração
+#= = Recebe 
+#/ = Divisão
+#* = Multiplicação
+#** = Potenciação
+#% = Resto da divisão
+#// = Divisão Inteira
+"""
+"""
+5+2 == Adição  
+5-2 == Substração
+5=2 == Recebe 
+5/2 == Divisão
+5*2 == Multiplicação
+5**2 == Potenciação
+5%2 == Resto da divisão #Seria a prova real na matematica, quando vc vai descendo a lista com a quantidade de divisões possíveis daquele numero, só que esse aqui seria o resultado do resto
+5//2 == Divisão Inteira #Seria a prova real na matematica, quando vc vai descendo a lista com a quantidade de divisões possíveis daquele numero, só que esse aqui seria o resultado das divisões
+
+#A Ordem de precedência dos simbolos vem 1=(), 2=**, 3=*,/,//,%, 4=+,- 
+"""
